@@ -1,1 +1,4 @@
-# Essay-Grading-Model
+This project focuses on automated essay grading using machine learning, leveraging advanced natural language processing techniques and predictive modeling. The primary algorithm implemented is:
+
+XGBoost Regressor – A powerful and efficient gradient boosting technique designed for regression tasks. It enhances prediction accuracy by optimizing decision trees and minimizing errors iteratively.
+The project begins by preprocessing textual data using tokenization and vectorization to convert essays into numerical representations. The model is then trained to predict grades based on essay features, ensuring a data-driven approach to grading. Performance is evaluated using the Mean Squared Error (MSE) metric, providing a reliable measure of prediction accuracy. By integrating machine learning, this system aims to offer a scalable, objective, and consistent method for evaluating written content.
